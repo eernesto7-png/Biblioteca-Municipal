@@ -1,4 +1,4 @@
- # Sistema de Gestão de Biblioteca
+# Sistema de Gestão de Biblioteca
 
 Programa em **Java** para consola que permite aos bibliotecários registar obras, consultar o catálogo, gerir utilizadores e efetuar operações de empréstimo e devolução de forma automatizada e fiável.
 
